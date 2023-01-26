@@ -8,7 +8,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Hi, I'm Madalitso NJawala a computer scientist with a Bachelors Degree in Information and Communiation Technology, obtained from Mzuzu univerity, Malawi. Below is my resume, my professional summary and some of the projects i have done so far.</p>
+          <p>Hi, I'm Madalitso NJawala a Software Engineer and computer scientist with a Bachelors Degree in Information and Communiation Technology, obtained from Mzuzu univerity, Malawi. Below is my resume, my professional summary and some of the projects i have done so far.</p>
         </div>
 
         <div class="row">
